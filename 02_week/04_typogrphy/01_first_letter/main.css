@@ -1,0 +1,18 @@
+body {
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+
+p {
+  margin: 20px;
+}
+
+p::first-letter {
+  font-family: cursive;
+  font-size: 24px;
+  line-height: .5;
+  color: red;
+}
+
+/* notice the dubble :: in the p tag. This is known as a pseudo element. */
