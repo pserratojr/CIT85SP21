@@ -1,0 +1,94 @@
+html {
+  background-color: blue;
+}
+/* top level html tag to set background color */
+
+body {
+  width: 70%;
+  margin: 0 auto;
+  background-color: white;
+  border: 3px solid gray;
+
+}
+
+/* body tag to set content block size, color and border */ 
+
+img {
+  width: 300px;
+  display: block;
+  margin: 50px auto;
+  border-radius: 100%;
+  border: 5px solid black;
+}
+
+/* added an image tag for stying and practice */
+
+div {
+  padding-bottom: 50px;
+}
+
+/* div tag to add padding space at the bottom of content div */
+
+#content {
+  font-size: 24px;
+  width: 80%;
+  height: 90%;
+  margin: auto;
+  border: solid black 5px;
+  }
+
+/* Content id to defined content div and style */
+
+.headingOne {
+  color: hotpink;
+  padding: 5px 0px;
+  margin: 25px 25px;
+  border: solid black 5px;
+}
+
+/* Class element to style h1 tag */
+
+h4 {
+  padding: 5px;
+  margin: 0px 25px;
+  border: solid black 5px;
+  }
+
+  /* H4 tag styling */
+
+.one {
+  color: red;
+}
+
+/* Class element to color class */
+
+.two {
+  color: blueviolet;
+}
+
+/* Class element to color class */
+
+.three {
+  color: aqua;
+}
+
+/* Class element to color class */
+
+p::first-letter {
+  font-family: cursive;
+  color: red;
+}
+/* font styling for the 1st letter of any p tag */
+
+p::first-line {
+  color: blue;
+}
+
+/* font styling for the 1st line of any p tag */
+
+p {
+  padding: 5px;
+  margin: 10px 25px;
+}
+
+/* p styling to add space between h4 tags and paragraphs tags */
