@@ -1,19 +1,12 @@
-.one {
-  font-size: 20px;
-  color: brown;
-}
-
-.two {
-  font-size: 30px;
-  color: blue;
-}
-
-.three {
-  font-size: 40px;
+.start {
+  font-size: 36;
   color: red;
 }
 
-.four {
-  font-size: 50px;
-  color: purple;
+#ten {
+  color: blue;
+}
+
+li:nth-child(5n+10) {
+  color: blueviolet;
 }
