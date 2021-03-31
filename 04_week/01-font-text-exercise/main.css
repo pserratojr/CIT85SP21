@@ -1,0 +1,51 @@
+html {
+  background-color: cornflowerblue;
+  font-size: 1.5rem;
+}
+
+#content {
+  width: 80%;
+  padding: 50px;
+  margin: 50px;
+  background-color: cornsilk;
+  }
+
+h1 {
+    color: red;
+    text-shadow: 5px 5px 6px black;
+  }
+
+a {
+    text-decoration: none;
+  }
+p {
+  text-indent: 1rem;
+}
+
+.one {
+  color: red;
+  font-family: serif;
+}
+
+.lt {
+  color: black;
+  text-decoration: line-through;
+}
+.two {
+  color: blue;
+  font-family: sans-serif;
+}
+
+.three {
+  font-family: Roboto;
+
+}
+
+.four {
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+.five {
+  letter-spacing: .5rem;
+}
