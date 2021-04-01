@@ -1,0 +1,35 @@
+html {
+  border: 3px dotted blue;
+}
+
+main {
+  width: 80%;
+  height: 80%;
+  padding: 25px 0;
+  border: 3px dotted blue;
+  margin: 50px auto;
+}
+
+div {
+  width: 80px;
+  height: 50PX;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin: 10px auto;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green  {
+  background-color: green;
+}

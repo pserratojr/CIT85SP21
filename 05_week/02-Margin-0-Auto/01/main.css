@@ -1,0 +1,29 @@
+html {
+  font-size: 1.25ßrem;
+  background-color: blue;
+}
+
+section {
+  width: 60%;
+  border: 3px solid black;
+  padding-right: 10px;
+  margin: 0 auto 150px auto;
+  background-color: lightgreen;
+}
+
+img {
+  width: 300px;
+  height: 225px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 100%;
+  border: 10px ridge gold;
+}
+
+.one {
+  color: aqua;
+}
+
+.two {
+  color: red;
+}
